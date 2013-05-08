@@ -1,0 +1,12 @@
+{
+    "repos" : {
+        "base" : "https://git-wip-us.apache.org/repos/asf/",
+        "mobile-spec" : "cordova-mobile-spec.git",
+        "ios" : "cordova-ios.git", 
+        "blackberry" : "cordova-blackberry.git",
+        "cli" : "cordova-cli.git",
+        "plugman" : "cordova-plugman.git"
+}
+
+
+}
